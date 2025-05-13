@@ -248,6 +248,7 @@ holonet.rebelion.org. 3600 IN A 203.0.113.42
 
 ## Misión 7: Baliza Secreta de Coruscant (DNS + SSH)
 
+![image](https://github.com/user-attachments/assets/a05cc505-de37-4836-85aa-8c3676375ccb)
 
 
 
