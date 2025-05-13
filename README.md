@@ -241,6 +241,13 @@ holonet.rebelion.org. 3600 IN A 203.0.113.42
 
 # Parte II – Misiones Prácticas con Cisco Packet Tracer 
 
+## Misión 6: Red Troncal de la Alianza (Hoth – HomeOne – Endor)
+
+![image](https://github.com/user-attachments/assets/2031c2e9-46ad-4e31-a7e2-1d4b4f4769e1)
+
+
+## Misión 7: Baliza Secreta de Coruscant (DNS + SSH)
+
 
 
 
