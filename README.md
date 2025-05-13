@@ -2,6 +2,8 @@
 Examen Final Redes
 https://github.com/Pizarman13/ExamenFinalRedes.git
 
+# Parte 1 – Misiones de Conocimiento Teórico
+
 ## Misión 1: Reconexión en la Base Eco (Hoth) – Direccionamiento IP y Subredes 
 
 ### Esquema de Subredes para la Base Eco (Hoth)
@@ -235,9 +237,9 @@ holonet.rebelion.org. 3600 IN A 203.0.113.42
 
 > “Con la Fuerza de la criptografía, el Imperio doblegado será. Sin seguridad, en la oscuridad caeremos.” — Mon Mothma  
 
+---
 
-
-
+# Parte II – Misiones Prácticas con Cisco Packet Tracer 
 
 
 
